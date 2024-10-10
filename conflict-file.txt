@@ -1,3 +1,3 @@
 This is Line 1
-This line is again modified by master branch
+This line is modified by newBranch
 This is line 3
