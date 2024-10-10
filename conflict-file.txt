@@ -1,0 +1,3 @@
+This is Line 1
+This line is modified by newBranch
+This is line 3
